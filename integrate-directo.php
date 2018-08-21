@@ -3,7 +3,7 @@
   Plugin Name: Integrate Directo
   Description: Integrates Directo software with WooCommerce.
   Version: 2.1
-  Author: <a href="http://blueglass.ee">BlueGlass Tallinn</a>
+  Author: <a href="http://blueglass.ee">BlueGlass Tallinn (Tanel Nigul)</a>
   License: GPL2
   */
 
